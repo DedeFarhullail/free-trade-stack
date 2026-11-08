@@ -1,0 +1,9 @@
+# local scratch
+*.log
+*.tmp
+.DS_Store
+
+# never commit keys
+*.key
+*.pem
+.env
